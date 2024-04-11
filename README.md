@@ -7,6 +7,9 @@ Mariana Salas Gutiérrez
 ## Link - Despliegue
 https://parcial-segundo-corte-five.vercel.app/
 
+## Repositorio usado para desplegar en Vercel
+https://github.com/MariSalas23/Deploy-backend.git
+
 ### Instrucciones Generales
 - El examen consta de tres partes, cada una correspondiente a una ruta de una API REST desarrollada con Express, todas deben desarrollarse dentro de la misma aplicación.
 - Utiliza la versión más reciente de Express para desarrollar la API.
