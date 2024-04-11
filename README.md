@@ -11,17 +11,20 @@ https://parcial-segundo-corte-five.vercel.app/
 https://github.com/MariSalas23/Deploy-backend.git
 
 ## Imágenes
-
 Inicio
-![Vista inicio](./assets/intro.jpg)
+
+![Vista](./assets/intro.jpg)
 
 Ejemplo coins
+
 ![Vista](./assets/coin.jpg)
 
 Ejemplo users con count y sort
+
 ![Vista](./assets/cont-sort.jpg)
 
 Ejemplo users
+
 ![Vista users](./assets/users.jpg)
 
 ### Instrucciones Generales
