@@ -16,12 +16,15 @@ Inicio
 ![Vista](./assets/intro.jpg)
 
 Ejemplo coins
+
 ![Vista](./assets/coin.jpg)
 
 Ejemplo users con count y sort
+
 ![Vista](./assets/cont-sort.jpg)
 
 Ejemplo users
+
 ![Vista users](./assets/users.jpg)
 
 ### Instrucciones Generales
