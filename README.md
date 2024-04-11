@@ -11,8 +11,8 @@ https://parcial-segundo-corte-five.vercel.app/
 https://github.com/MariSalas23/Deploy-backend.git
 
 ## Imágenes
-
 Inicio
+
 ![Vista](./assets/intro.jpg)
 
 Ejemplo coins
