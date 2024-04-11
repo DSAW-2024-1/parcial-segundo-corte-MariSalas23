@@ -5,7 +5,10 @@
 Mariana Salas Gutiérrez
 
 ## Link - Despliegue
+https://parcial-segundo-corte-five.vercel.app/
 
+## Repositorio usado para desplegar en Vercel
+https://github.com/MariSalas23/Deploy-backend.git
 
 ## Imágenes
 
