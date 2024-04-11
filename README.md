@@ -5,7 +5,7 @@
 Mariana Salas Gutiérrez
 
 ## Link - Despliegue
-
+https://parcial-segundo-corte-five.vercel.app/
 
 ### Instrucciones Generales
 - El examen consta de tres partes, cada una correspondiente a una ruta de una API REST desarrollada con Express, todas deben desarrollarse dentro de la misma aplicación.
