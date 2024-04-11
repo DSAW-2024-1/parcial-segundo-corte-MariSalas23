@@ -13,7 +13,7 @@ https://github.com/MariSalas23/Deploy-backend.git
 ## Imágenes
 
 Inicio
-![Vista inicio](./assets/intro.jpg)
+![Vista](./assets/intro.jpg)
 
 Ejemplo coins
 ![Vista](./assets/coin.jpg)
